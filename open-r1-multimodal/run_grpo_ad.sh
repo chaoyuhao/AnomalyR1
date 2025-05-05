@@ -23,7 +23,7 @@ torchrun --nproc_per_node="4" \
     --dataset_name data_config/ad.yaml \
     --image_root $IMAGE_ROOT \
     --max_prompt_length 1024 \
-    --num_generations 4 \
+    --num_generations 8 \
     --per_device_train_batch_size 1 \
     --gradient_accumulation_steps 2 \
     --logging_steps 1 \
