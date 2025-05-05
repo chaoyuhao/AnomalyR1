@@ -1,0 +1,30 @@
+[2025-02-28 21:02:40,138] [INFO] [real_accelerator.py:219:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-02-28 21:02:40,144] [INFO] [real_accelerator.py:219:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-02-28 21:02:40,189] [INFO] [real_accelerator.py:219:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-02-28 21:02:40,299] [INFO] [real_accelerator.py:219:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[2025-02-28 21:02:41,794] [INFO] [comm.py:652:init_distributed] cdb=None
+[2025-02-28 21:02:41,817] [INFO] [comm.py:652:init_distributed] cdb=None
+[2025-02-28 21:02:41,817] [INFO] [comm.py:683:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
+[2025-02-28 21:02:41,875] [INFO] [comm.py:652:init_distributed] cdb=None
+[2025-02-28 21:02:41,932] [INFO] [comm.py:652:init_distributed] cdb=None
+reward_funcs: [<function iou_reward at 0x7fb54e913a30>, <function format_reward at 0x7fb54a176050>]
+reward_funcs: [<function iou_reward at 0x7f734f8339a0>, <function format_reward at 0x7f734b241fc0>]
+reward_funcs: [<function iou_reward at 0x7f44c6597a30>, <function format_reward at 0x7f44c1fa6050>]
+reward_funcs: [<function iou_reward at 0x7fb93fcc3a30>, <function format_reward at 0x7fb93b6d2050>]
+Loaded 120624 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcoco_train.json
+Loaded 120624 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcoco_train.json
+Loaded 120624 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcoco_train.json
+Loaded 120624 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcoco_train.json
+Loaded 120191 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocop_train.json
+Loaded 120191 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocop_train.json
+Loaded 120191 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocop_train.json
+Loaded 120191 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocop_train.json
+Loaded 80512 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocog_train.json
+Loaded 80512 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocog_train.json
+Loaded 80512 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocog_train.json
+Loaded 80512 samples from /home/chaoyuhao/workbench/VLM-R1/datasets/rec_jsons_processed/refcocog_train.json
+[2025-02-28 21:02:46,431] [INFO] [config.py:733:__init__] Config mesh_device None world_size = 4
+[2025-02-28 21:02:46,485] [INFO] [config.py:733:__init__] Config mesh_device None world_size = 4
+[2025-02-28 21:02:46,563] [INFO] [config.py:733:__init__] Config mesh_device None world_size = 4
+[2025-02-28 21:02:46,934] [INFO] [config.py:733:__init__] Config mesh_device None world_size = 4
+[2025-02-28 21:02:48,195] [INFO] [partition_parameters.py:348:__exit__] finished initializing model - num_params = 825, num_elems = 4.07B
