@@ -2,6 +2,10 @@
 
 ---
 
+## Notification 🎉
+
+We will be implementing a thorough, more innovative, and more logical comprehensive update covering everything from the code framework to partial design ideas and the paper. Please look forward to its release before **August**.
+
 ## Introduction
 
 This project presents an industrial anomaly detection framework built upon the VLM-R1 and Qwen2.5VL-3b multimodal foundation models. It is designed to support visual-language reasoning and anomaly interpretation for industrial imagery, enabling precise and context-aware multimodal queries.
