@@ -2,10 +2,6 @@
 
 ---
 
-## Notification 🎉
-
-We will be implementing a thorough, more innovative, and more logical comprehensive update covering everything from the code framework to partial design ideas and the paper. Please look forward to its release before **August**.
-
 ## Introduction
 
 This project presents an industrial anomaly detection framework built upon the VLM-R1 and Qwen2.5VL-3b multimodal foundation models. It is designed to support visual-language reasoning and anomaly interpretation for industrial imagery, enabling precise and context-aware multimodal queries.
@@ -63,7 +59,7 @@ for your customized dataset, please follow the jsonl format below:
 
 ## Evaluation
 
-You can download the checkpoint of GRPO model from [here](https://drive.google.com/drive/folders/1vdicicfz2S4rLfhGFp4iGAncYAsQNexW?usp=drive_link)
+You can download the checkpoint of GRPO model from [here](https://pan.baidu.com/s/1tGYt0Em5r06rigss7FabSg?pwd=ugqp)
 
 And you can use the following command to evaluate the GRPO model.
 
