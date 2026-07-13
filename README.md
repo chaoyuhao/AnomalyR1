@@ -59,7 +59,7 @@ for your customized dataset, please follow the jsonl format below:
 
 ## Evaluation
 
-You can download the checkpoint of GRPO model from [here](https://pan.baidu.com/s/1tGYt0Em5r06rigss7FabSg?pwd=ugqp)
+You can download the checkpoint of GRPO model from [BaiduNetdisk](https://pan.baidu.com/s/1tGYt0Em5r06rigss7FabSg?pwd=ugqp) or [HuggingFace](https://huggingface.co/chaos4669/AnomalyR1)
 
 And you can use the following command to evaluate the GRPO model.
 
